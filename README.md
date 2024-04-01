@@ -10,4 +10,4 @@ Data Scientist @Tech Skills
 - Big impactProject 2
 
 ### Projects
-EEG Band Discovery
+EEG Band Discovery FGA
